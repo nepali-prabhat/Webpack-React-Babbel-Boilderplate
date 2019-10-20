@@ -1,7 +1,7 @@
 # :heart: React Webpack Boilerplate :heart:
 Boiler plate for webpack, babbel and react.
 
-Love :heart:
+Love
 
 ## Basic
 ```
